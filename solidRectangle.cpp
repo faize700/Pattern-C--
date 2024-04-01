@@ -1,4 +1,4 @@
-// Print Solid Pattern of Asterisk (*) in C++
+// Print Solid Rectangle Pattern of Asterisk (*) in C++
 // ******
 // ******
 // ******
